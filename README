@@ -1,0 +1,4 @@
+This code provides a class for simplifying the interfacing of the monome with SuperCollider.
+
+It currently consists of a slightly modified version of Daniel Jones sc_monome library but will eventually contain classes for creating widgets of various shapes and sizes on the monome quickly and easily.
+
